@@ -1,6 +1,15 @@
 # MscDSA-Scene
 Repository for all code related to CS6009 Dissertation - Scene Understanding for Autonomous Cars by Clara Killeen (114443408)
 
+Code follows this structure:
+
+Creating Labels Fn - Some function are defined here that are used in both Parts. 
+
+4 Category Model Building - This is all of the relevant code for Part 1 (Single Images) 
+
+Robotcar - Model Building - This is all of the relevvant code for Part 2 (Image Sequences)
+
+
 Can run into problems with getting .ipynb files to display on github. If such problems arise, reccomend following this link : https://nbviewer.jupyter.org/ and pasting the url for the file (on github), this will allow you to view the file. 
 
 The Three Datasets used in this project can be found at the following: 
@@ -12,11 +21,7 @@ Image2Weather Dataset https://www.cs.ccu.edu.tw/~wtchu/projects/Weather/index.ht
 Oxford Robotcar Homepage https://robotcar-dataset.robots.ox.ac.uk/
 
 
-Creating Labels Fn - Some function are defined here that are used in both Parts. 
 
-4 Category Model Building - This is all of the relevant code for Part 1 (Single Images) 
-
-Robotcar - Model Building - This is all of the relevvant code for Part 2 (Image Sequences)
 
 
 
