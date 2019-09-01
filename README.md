@@ -9,6 +9,8 @@ Multi Class Weather Dataset https://data.mendeley.com/datasets/4drtyfjtfy/1
 Image2Weather Dataset https://www.cs.ccu.edu.tw/~wtchu/projects/Weather/index.htmlhttps://www.cs.ccu.edu.tw/~wtchu/projects/Weather/index.html
 Oxford Robotcar Homepage https://robotcar-dataset.robots.ox.ac.uk/
 
+4 Category Model Building - This is all of the relevant code for Part 1 (Single Images) 
+
 
 
 
